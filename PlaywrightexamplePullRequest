@@ -26,4 +26,3 @@ test('Get first frame', async ({ page }) => {
 });
 
 
-HelloToday
